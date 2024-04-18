@@ -14,21 +14,20 @@ You also need to have a MySQL server set up, and you can use XAMPP for local dev
 
 ## Usage
 
-Clone the repository:
+1. Clone the repository:
 ```bash
 git clone https://github.com/nadimnesar/Bank-Management-System.git
 ```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd Bank-Management-System
 ```
 
-Run the main Python file:
+3. Run the main Python file:
 ```bash
 python main.py
 ```
-
 
 4. Follow the instructions provided in the console to either log in as a user or an admin and perform various banking operations.
 
@@ -38,4 +37,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-All rights reserved by Nesar Ahmed @2022
+All rights reserved by Nesar Ahmed @2024
