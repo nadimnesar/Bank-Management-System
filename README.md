@@ -12,3 +12,21 @@ pip install mysql-connector
 
 You also need to have a MySQL server set up, and you can use XAMPP for local development.
 
+## Usage
+
+Clone the repository:
+```bash
+git clone https://github.com/nadimnesar/Bank-Management-System.git
+```
+
+Navigate to the project directory:
+```bash
+cd Bank-Management-System
+```
+
+Run the main Python file:
+```bash
+python main.py
+```
+
+Follow the instructions provided in the console to either log in as a user or an admin and perform various banking operations.
