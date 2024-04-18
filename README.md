@@ -8,5 +8,7 @@ To run this system, you need to have Python installed on your system along with 
 
 ```bash
 pip install mysql-connector
+```
 
 You also need to have a MySQL server set up, and you can use XAMPP for local development.
+
