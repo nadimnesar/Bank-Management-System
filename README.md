@@ -29,4 +29,13 @@ Run the main Python file:
 python main.py
 ```
 
-Follow the instructions provided in the console to either log in as a user or an admin and perform various banking operations.
+
+4. Follow the instructions provided in the console to either log in as a user or an admin and perform various banking operations.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
+
+## License
+
+All rights reserved by Nesar Ahmed @2022
