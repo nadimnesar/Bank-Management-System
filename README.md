@@ -7,7 +7,7 @@ This repository contains a Bank Management System implemented in Python using My
 To run this system, you need to have Python installed on your system along with the `mysql-connector` library. You can install the required library using the following command:
 
 ```bash
-pip install mysql-connector
+pip install mysql-connector-python
 ```
 
 You also need to have a MySQL server set up, and you can use XAMPP for local development.
