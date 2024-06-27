@@ -37,4 +37,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-All rights reserved by Nesar Ahmed @2024
+All rights reserved by Nesar Ahmed @2022
